@@ -1,1 +1,5 @@
-Step 1:  created by YOUR_NAME on DATE at TIME
+Step 1:  created by Stavros on Feb 4 at 3.31pm
+
+Step 3:  added by Stavros on Feb 4 at 3.41pm
+
+Step 4:  line added by Stavros on Feb 4 at 3.44pm
